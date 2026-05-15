@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\CalculadoraDeMedias011\bin\Debug\CalculadoraDeMedias01.exe.config
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\CalculadoraDeMedias011\bin\Debug\CalculadoraDeMedias01.exe
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\CalculadoraDeMedias011\bin\Debug\CalculadoraDeMedias01.pdb
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\CalculadoraDeMedias011\bin\Debug\ESWA01CalculadoraDeMedias.dll
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\CalculadoraDeMedias011\bin\Debug\ESWA01CalculadoraDeMedias.pdb
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\CalculadoraDeMedias011\obj\Debug\CalculadoraDeMedias011.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\CalculadoraDeMedias011\obj\Debug\CalculadoraDeMedias01.Properties.Resources.resources
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\CalculadoraDeMedias011\obj\Debug\CalculadoraDeMedias011.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\CalculadoraDeMedias011\obj\Debug\CalculadoraDeMedias011.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\CalculadoraDeMedias011\obj\Debug\Calculad.1CBE58F9.Up2Date
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\CalculadoraDeMedias011\obj\Debug\CalculadoraDeMedias01.exe
+C:\Users\User\Desktop\Aplicativo 14.05\ESWA01CalculadoraDeMedias\CalculadoraDeMedias011\obj\Debug\CalculadoraDeMedias01.pdb
